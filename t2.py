@@ -11,3 +11,5 @@ for i in range(10,0,-1):
     end_fill()
        
 mainloop()
+
+wap to print if the length of a string is even or, from a list of string
