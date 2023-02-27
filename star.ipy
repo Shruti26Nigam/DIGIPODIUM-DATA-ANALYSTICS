@@ -1,13 +1,13 @@
 from turtle import *
 a = Turtle()
-a.getscreen().bgcolor("black")
+a.getscreen().bgcolor('white')
 
 a.penup()
 a.goto(-200, 100)
 a.pendown()
-a.color("yellow")
+a.color('blue')
 
-a.speed(25)
+a.speed(35)
 def star(turtle, size):
     if size<=10:
         return
